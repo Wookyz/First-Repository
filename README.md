@@ -1,8 +1,11 @@
-#Koda DiscordBot
+# Koda DiscordBot
+
 ***
+
 Um bot do discord feito em *python* com o objetivo de ter comandos por **reconhecimento de voz**.
 
-##Missões
+## Missões
+
 - [ ] Voice Regonition
 - [ ] Funções de Moderação
     - [ ] Mute
@@ -17,5 +20,5 @@ Um bot do discord feito em *python* com o objetivo de ter comandos por **reconhe
 
 >As missões estão sujeitas a possíveis alterações.
 
-##Ajude a desenvolver!
+## Ajude a desenvolver!
 O Koda Bot está em constante desenvolvimento, apesar de novo ele possui bastante potencial para ser um bot íncrivel e único que sempre apoiando na criação da comunidade!
